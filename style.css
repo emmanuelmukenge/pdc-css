@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;color: black;font-weight: normal;
+}
+.police{
+    font-family: Arial, "Helvetica" , sans-serif;
+    background-color: white;
+    
+    
+}
+.tete{
+    background-color: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       
+}
+header{padding-bottom: 10px;}
+section{margin-top: -40px;}
+
+.img{
+    width: 500px;
+}
+.img1:hover{
+width: 500px;
+height: 500px;
+}
+.img2:hover{
+    width: 500px;
+height: 500px;
+}
+.img3:hover{
+    width: 500px;
+height: 500px;
+}
+.vid:hover{
+    width: 500px;
+height: 300px;
+}
+
+.img:hover{width:700px;}
+.pied{
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
